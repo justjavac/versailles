@@ -28,7 +28,7 @@ export default function createHtml(str: string): string {
         </article>
 
         <footer>
-            <div>本站源码使用 MIT 许可证发布在 <a href="https://github.com/justjavac/fanersai" target="_blank"  rel="nofollow">GitHub</a> 上。内容来源自网络。</div>
+            <div>本站源码使用 MIT 许可证发布在 <a href="https://github.com/justjavac/versailles" target="_blank"  rel="nofollow">GitHub</a> 上。内容来源自网络。</div>
         </footer>
 </body>
 
