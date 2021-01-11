@@ -21,7 +21,7 @@ export default function createHtml(str: string): string {
 
 <body>
     <div class="container">
-        <h1><a href="index.html">凡尔赛</a></h1>
+        <h1><a href="/">凡尔赛</a></h1>
 
         <article>
             <div>${str}</div>
