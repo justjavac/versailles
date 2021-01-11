@@ -15,7 +15,7 @@ const count = words.length;
 const server = serve({ port: 8000 });
 
 for await (const req of server) {
-  const index = Math.ceil(Math.random() * count - 1);
+  const index = Math.floor(Math.random() * count);
   const body = createHtml(words[index]);
   req.respond({ body });
 }
