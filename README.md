@@ -9,4 +9,5 @@
 
 ### License
 
-[versailles](https://github.com/justjavac/versailles) is released under the MIT License. See the bundled [LICENSE](./LICENSE) file for details.
+[versailles](https://github.com/justjavac/versailles) is released under the MIT
+License. See the bundled [LICENSE](./LICENSE) file for details.
